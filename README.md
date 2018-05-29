@@ -4,7 +4,7 @@ Tippo is a tip calculator application for iOS.
 
 Submitted by: Ji Hye Ha
 
-Time spent: 2 hours spent in total
+Time spent: 2.5 hours spent in total
 
 ##
 
@@ -16,7 +16,7 @@ The following functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/73pFa3w' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/LdQJyQH' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
